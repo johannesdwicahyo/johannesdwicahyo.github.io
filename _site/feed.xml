@@ -5,37 +5,41 @@
     <description>Rails, Ionic Dev &amp; Culinary Entrepeneur</description>
     <link>http://johannesdwicahyo.id//</link>
     <atom:link href="http://johannesdwicahyo.id//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 20 Mar 2016 10:50:50 +0700</pubDate>
-    <lastBuildDate>Sun, 20 Mar 2016 10:50:50 +0700</lastBuildDate>
+    <pubDate>Fri, 03 Jun 2016 13:57:22 +0700</pubDate>
+    <lastBuildDate>Fri, 03 Jun 2016 13:57:22 +0700</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Hi!</title>
+        <description>&lt;p&gt;Hi!&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;My name Johannes Dwi Cahyo Kristanto. I’m an application developer. My stack is Ruby on Rails or Meteor for back end and API server, Angular and React for JavaScript front end, Slim for template language in Rails, Spree/Solidus for e-commerce and Ionic Framework for hybrid application development. My next to be stack is Elixir - Phoenix and React Native. I enjoy using SublimeText, Atom or even Vim to edit my code. My OS for desktop is Ubuntu (or Elementary OS) and also Ubuntu Server for deployment in AWS or Digital Ocean (also Heroku for fast development).&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;I also run my own small business :&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;ul&gt;
+  &lt;li&gt;John316 is an alternative coffee brewing store&lt;/li&gt;
+  &lt;li&gt;Greendry is an enviromental aware laundry provider&lt;/li&gt;
+  &lt;li&gt;AbangSayur is local e-commerce market for organic &amp;amp; healthy food&lt;/li&gt;
+  &lt;li&gt;Go-Trip is an upcoming startup in travelling, provide itinerary maker integrated with travel industry provider&lt;/li&gt;
+  &lt;li&gt;Resto-Joe is restaurant management application build in Ruby on Rails and serve as Chrome Extension using Angular&lt;/li&gt;
+  &lt;li&gt;Hotel-Joe is hotel management application build in Ruby on Rails and serve as Chrome Extension using Angular&lt;/li&gt;
+  &lt;li&gt;Warehouse-Joe is warehouse management application build in Ruby on Rails and serve as Chrome Extension using Angular&lt;/li&gt;
+  &lt;li&gt;POS-Joe is multipurpose Point of Sales application build in Ruby on Rails and serve as Chrome Extension using Angular&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Besides my daily coding, I like to read a book and article, cooking and eating a good food and seeing comedy or thriller film. I also like dog, but until now my girlfriend not allow me to own a dog, but we agree to have a dog when we move together soon.&lt;/p&gt;
 
+&lt;p&gt;I will share my daily coding experience, my daily life and also all of my thought about random thing. Enjoy this blog!!&lt;/p&gt;
 </description>
         <pubDate>Fri, 08 Jan 2016 22:04:23 +0700</pubDate>
-        <link>http://johannesdwicahyo.id//2016/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://johannesdwicahyo.id//2016/welcome-to-jekyll/</guid>
+        <link>http://johannesdwicahyo.id//2016/hi/</link>
+        <guid isPermaLink="true">http://johannesdwicahyo.id//2016/hi/</guid>
         
-        <category>jekyll</category>
+        <category>about</category>
         
         
-        <category>jekyll</category>
+        <category>about</category>
         
       </item>
     
