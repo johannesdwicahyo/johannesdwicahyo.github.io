@@ -4,8 +4,6 @@ date:   2016-01-08 15:04:23
 categories: [about]
 tags: [about]
 ---
-Hi!
-
 My name Johannes Dwi Cahyo Kristanto. I'm an application developer. My stack is Ruby on Rails or Meteor for back end and API server, Angular and React for JavaScript front end, Slim for template language in Rails, Spree/Solidus for e-commerce and Ionic Framework for hybrid application development. My next to be stack is Elixir - Phoenix and React Native. I enjoy using SublimeText, Atom or even Vim to edit my code. My OS for desktop is Ubuntu (or Elementary OS) and also Ubuntu Server for deployment in AWS or Digital Ocean (also Heroku for fast development).
 
 I also run my own small business : 
