@@ -1,30 +1,272 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>Johannes Dwi Cahyo</title>
+    <description>Rails, Ionic Dev &amp; Culinary Entrepeneur</description>
+    <link>http://johannesdwicahyo.id//</link>
+    <atom:link href="http://johannesdwicahyo.id//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 17 Aug 2016 10:56:44 +0700</pubDate>
+    <lastBuildDate>Wed, 17 Aug 2016 10:56:44 +0700</lastBuildDate>
+    <generator>Jekyll v3.0.2</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>Hi!</title>
+        <description>&lt;p&gt;My name Johannes Dwi Cahyo Kristanto. I’m an application developer. My stack is Ruby on Rails or Meteor for back end and API server, Angular and React for JavaScript front end, Slim for template language in Rails, Spree/Solidus for e-commerce and Ionic Framework for hybrid application development. My next to be stack is Elixir - Phoenix and React Native. I enjoy using SublimeText, Atom or even Vim to edit my code. My OS for desktop is Ubuntu (or Elementary OS) and also Ubuntu Server for deployment in AWS or Digital Ocean (also Heroku for fast development).&lt;/p&gt;
+
+&lt;p&gt;I also run my own small business :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;John316 is an alternative coffee brewing store&lt;/li&gt;
+  &lt;li&gt;Greendry is an enviromental aware laundry provider&lt;/li&gt;
+  &lt;li&gt;AbangSayur is local e-commerce market for organic &amp;amp; healthy food&lt;/li&gt;
+  &lt;li&gt;Go-Trip is an upcoming startup in travelling, provide itinerary maker integrated with travel industry provider&lt;/li&gt;
+  &lt;li&gt;Resto-Joe is restaurant management application build in Ruby on Rails and serve as Chrome Extension using Angular&lt;/li&gt;
+  &lt;li&gt;Hotel-Joe is hotel management application build in Ruby on Rails and serve as Chrome Extension using Angular&lt;/li&gt;
+  &lt;li&gt;Warehouse-Joe is warehouse management application build in Ruby on Rails and serve as Chrome Extension using Angular&lt;/li&gt;
+  &lt;li&gt;POS-Joe is multipurpose Point of Sales application build in Ruby on Rails and serve as Chrome Extension using Angular&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Besides my daily coding, I like to read a book and article, cooking and eating a good food and seeing comedy or thriller film. I also like dog, but until now my girlfriend not allow me to own a dog, but we agree to have a dog when we move together soon.&lt;/p&gt;
+
+&lt;p&gt;I will share my daily coding experience, my daily life and also all of my thought about random thing. Enjoy this blog!!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 08 Jan 2016 22:04:23 +0700</pubDate>
+        <link>http://johannesdwicahyo.id//2016/hi/</link>
+        <guid isPermaLink="true">http://johannesdwicahyo.id//2016/hi/</guid>
+        
+        <category>about</category>
+        
+        
+        <category>about</category>
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Budi &amp;amp; Peggy Soehardi - Roslin Orphanage</title>
+        <description>&lt;p&gt;Malam ini lagi-lagi mengenal figur luar biasa di Indonesia. Orang yang baik, sangat baik. Orang yang hidupnya tulus diberikan untuk sesama dan mendidik sesama dengan luar biasa baiknya. Mungkin sudah ada yang pernah mendengar tentang Roslin Orphanage, Panti Asuhan Roslin di Kupang , NTT. Panti asuhan milik Budi &amp;amp; Peggy Soehardi ini dibiayai secara pribadi, tidak meminta-minta sumbangan dan memiliki konsep pendidikan anak yang unik dan istimewa menurut saya.
+&lt;!--more--&gt;
+Berawal dari berita di TV mengenai korban perang di NTT, Budi dan Peggy tergerak untuk memberikan bantuan, mereka yang sebelumnya sudah memiliki rencana berlibur ke suatu tempat, membatalkannya kemudian bersama ketiga anaknya pergi ke Kupang, NTT untuk memberikan bantuan sosial kesana. Dari kejadian inilah awalnya mereka kemudian memiliki hati yang tergerak untuk mendirikan panti asuhan di NTT, masalah sosial seperti kemiskinan, anak terlalu banyak, korban perang menjadi dasar mereka untuk memiliki ide membuat panti asuhan.&lt;/p&gt;
+
+&lt;p&gt;Pada tahun 2012 akhirnya panti asuhan Roslin berdiri, asal namanya dari salah satu nama anak pertama yang mereka rawat. Dengan biaya sendiri mereka membangun panti itu dan merawat anak-anak di dalamnya. Dan seperti panti asuhan kebanyakan, jumlah mereka terus bertambah dengan anak-anak yang orang tuanya terlalu  miskin, anak ke-11 atau 12 dan juga bayi-bayi yang diserahkan kepada mereka baik dari rumah sakit ataupun diantar langsung ke panti.&lt;/p&gt;
+
+&lt;p&gt;Salah satu keunikan utama mereka adalah tidak adanya penyumbang dana untuk operasional panti asuhan ini. Dengan gajinya Budi Soehardi memenuhi seluruh kebutuhan panti asuhan, meskipun terkadang ada juga orang yang menyumbang, tapi tidak rutin dan pasti. Bayangkan gaji 1 orang bisa untuk menghidupi istri dan 3 anaknya, beserta puluhan (dan terus bertambah) anak-anak di panti asuhan Roslin. Gaji pilot pasti memang banyak dan besar,tapi berapa banyak pilot yang rela gajinya digunakan untuk membiayai panti asuhan?&lt;/p&gt;
+
+&lt;p&gt;Hal lain yang istimewa, Peggy sebagai pengurus utama panti juga mendapat dukungan penuh dari ketiga anaknya yang rela berbagi ibu dengan anak-anak di panti. Dengan besar hati mereka rela berbagai waktu, pikiran dan perasaan sang Ibu untuk dapat membantu anak-anak di Roslin. Mereka tidak masalah dengan keadaan mereka yang jadi lebih jarang untuk bertemu ibunya. Dan akhirnya justru anak-anak mereka turut serta juga membantu operasional di panti asuhan.&lt;/p&gt;
+
+&lt;p&gt;Contoh nyata di dunia mengenai saluran berkat, keluarga ini diberkati untuk kemudian memberkati orang lain. Bukan cuma materi tapi juga secara mentalitas. Anak-anak panti asuhan yang sangat betah dan merasa memiliki semangat dan tujuan hidup baru setelah masuk ke Roslin menunjukkan tingginya motivasi yang diberikan pada anak-anak yang hancur hati ini yang kemudian bisa bangkit dan bersemangat. Mudah saat dipikirkan, dikatakan, dituliskan, tapi seberapa banyak dari kita yang bisa melakukan seperti keluarga Soehardi ini?&lt;/p&gt;
+</description>
+        <pubDate>Sat, 19 Jul 2014 03:24:10 +0700</pubDate>
+        <link>http://johannesdwicahyo.id//2014/budi-and-peggy-soehardi-roslin-orphanage/</link>
+        <guid isPermaLink="true">http://johannesdwicahyo.id//2014/budi-and-peggy-soehardi-roslin-orphanage/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Elementary OS - Linux Secantik MacOS</title>
+        <description>&lt;p&gt;Tidak bisa dipungkiri MacOS memang cantik. Tampilannya clean, enak dipandang mata, fungsional dan tentu saja gengsinya tinggi. Sudah berkali-kali saya mencoba mengubah tampilan OS yang saya pakai agar mirip MacOS, saat dulu masih menggunakan Win XP, kemudian Win7, bahkan dengan Ubuntu. Menyenangkan tetapi terkadang dengan modifikasi tersebut hanya tampak indah dan menjadi kurang fungsional. Apalagi saat digunakan di Windows, rasanya sistem menjadi sangat berat karena banyaknya modifikasi yang berjalan. 
+&lt;!--more--&gt;
+Kemudian saya mendengar kabar mengenai Elementary OS, OS Linux yang berbasis pada Ubuntu LTS, sekarang masih dalam versi 0.2 dengan nama Luna. Saya dengar OS ini cantik, mengikuti filosofi MacOS dalam desain tampilannya dan menawarkan berbagai kemudahan karena tetap saja berbasis pada OS Linux paling populer yaitu Ubuntu.&lt;/p&gt;
+
+&lt;p&gt;Segera setelah melihat review dan tampilannya saya putuskan untuk mendownload dan mencoba Elementary OS. Setelah membuat bootable flash dan menjalankan secara live, dengan nekat saya putuskan untuk mengubah Ubuntu saya menjadi Elementary OS. Pertimbangan saya karena saat ini sedang dalam masa antara project sehingga memang ada waktu luang untuk setting OS baru.&lt;/p&gt;
+
+&lt;p&gt;Instalasi berjalan tidak terlalu lancar, beberapa kali installer berhenti beroperasi, terhenti di tengah jalan, sehingga saya harus mengulang beberapa kali proses instalasi. Terlihat memang sedari awal OS ini belum stabil, kentara juga dari nomor versinya yang masih 0.2. Dan akhirnya setelah percobaan kesekian (lupa tepatnya berapa kali) yang menghabiskan setengah hari saya, Elementary OS sukses menggantikan Ubuntu di laptop Thinkpad saya.&lt;/p&gt;
+
+&lt;p&gt;Setelah instalasi saya melakukan hal-hal standar seperti yang paling utama adalah menyetting development environment untuk Ruby on Rails dan memperindah tampilan Elementary OS dengan pilihan kustomisasi yang menarik. Ada sedikit kesulitan untuk koneksi ke WiFi yang kemudian selesai dengan cara update kernel baru, dengan sebelumnya melakukan koneksi ke WiFi hotspot tanpa password. Kemudian juga kesulitan mengkoneksikan iPhone saya, ternyata juga karena libimobiledevice-nya belum yang terbaru sehingga terkena bug lock. Untuk instalasi Ruby juga sempat mengalami kesulitan, tapi ternyata lebih karena koneksi, saya tetap menggunakan RVM dan dengan cepat (setelah koneksi lancar) Ruby on Rails sudah bisa saya gunakan lagi untuk development. Instalasi juga program standar seperti Sublime, Deluge, LibreOffice Calc dan Chromium.&lt;/p&gt;
+
+&lt;p&gt;Singkatnya OS ini cantik dan menarik tetapi memang belum stabil dan untungnya berbasis pada Ubuntu sehingga sangat membantu untuk adaptasi cepat dan jaringan luas kemudahan aplikasinya juga sangat baik.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Jul 2014 23:36:59 +0700</pubDate>
+        <link>http://johannesdwicahyo.id//2014/elementary-os-linux-secantik-macos/</link>
+        <guid isPermaLink="true">http://johannesdwicahyo.id//2014/elementary-os-linux-secantik-macos/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Supply Chain Management Kopi</title>
+        <description>&lt;p&gt;Kopi merupakan komoditas pertanian nomor 2 terbesar setelah Sawit. Indonesia pun sejak dulu sudah memiliki berbagai macam jenis kopi Single Origin yang terkenal di dunia. Bahasa Java dinamai seperti itu karena programmernya menyukai kopi Jawa kemungkinan jeni Jawa Preanger dari Sunda. Kopi Indonesia sudah cukup dihargai di luar negeri, banyak orang yang mengenal dan menggemari kopi asli Indonesia. Bahkan Starbucks dan Nestle mengambil kopi dari Indonesia sebagai bahan baku produksi kopinya. Tetapi apakah kopi sudah menjadi kebanggaan masyarakat Indonesia? Berapa banyak orang Indonesia yang sudah mengenal kekayaan kopi single origin asli dari bangsanya? Masalah apa yang membuat banyak orang tidak bisa mengenal dan menghargai kopinya sendiri?
+&lt;!--more--&gt;
+Menurut saya mungkin ini ada hubungannya dengan Supply Chain Management kopi di Indonesia. Begini kerangka pikirnya. Kita akan sedikit belajar bagaimana proses kopi sebagai komoditas pertanian diolah dari biji (green bean) menjadi secangkir kopi nikmat, kemudian kita akan melihat bagaimana perusahaan besar melakukan proses tersebut, dilanjutkan dengan melihat keadaan dan permasalahan di pasar kopi Indonesia dan tentu saja diakhiri dengan konklusi yang disertai harapan dari saya pribadi.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 09 Jun 2014 01:50:41 +0700</pubDate>
+        <link>http://johannesdwicahyo.id//2014/supply-chain-management-kopi/</link>
+        <guid isPermaLink="true">http://johannesdwicahyo.id//2014/supply-chain-management-kopi/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Pemilu Pertama</title>
+        <description>&lt;p&gt;Maksudnya adalah Pemilu Pertama yang proses dan hasilnya saya anggap akan memiliki arti langsung, efek langsung terhadap kehidupan saya. Baik dengan saya memilih maupun menjadi golput seperti biasanya. Sebelumnya harus saya akui saya selalu tidak menganggap penting pesta demokrasi semacam ini, baik di tingkat kampus, daerah tempat tinggal maupun negara tercinta Indonesia.&lt;/p&gt;
+
+&lt;p&gt;Apa yang berbeda dengan pemilu kali ini? Apa yang istimewa? Apa yang spesial? Apa yang tiba-tiba menjadi hal yang penting?&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Tahun ini usia saya 25 tahun. Tentu saja seharusnya saya sudah berhak mengikuti pesta demokrasi 5 tahun yang lalu, dan selain itu juga sudah berkali-kali kesempatan men-coblos yang lain, baik pemimpin daerah sampai pemilihan ketua BEM kampus. Dan sejujurnya memang saya tidak pernah menganggap itu semua hal yang penting, tidak memiliki dampak yang “cetho” dalam hidup saya.&lt;/p&gt;
+
+&lt;p&gt;Menariknya capres kali ini unik, yang satu saya bilang katrolan, yang satu bisa dibilang capres masa orde baru. Capres katrolan ini naik dengan cepat setelah namanya “moncer” dengan dukungannya terhadap ESEMKA, mobil buatan anak SMK di Surakarta, juga dengan berbagai prestasinya yang luar biasa selama menjadi walikota di Solo. Kemudian dicalonkan menjadi Gubernur DKI dan menang, sehingga sudah 2 tahun ini menjabat sebagai Gubernur di Jakarta. Sementara itu capres Orba namanya terkenal sebagai Jenderal kesayangan Presiden kita selama Order Baru, bahkan sempat menjadi menantunya. Meskipun dituduh banyak kasus sisa Orba, capres ini tetap “pede” dan bahkan memiliki pendukung yang sangat besar.&lt;/p&gt;
+
+&lt;p&gt;Secara pribadi saya sudah memastikan memilih Pak Joko Widodo sebagai Presiden RI ke-7. Alasannya sangat mudah, kalau mau kepemimpinan seperti Pak Prabowo, saya jauh lebih memilih dulu kita tidak perlu menggulingkan Pak Soeharto, dan melanjutkan dinasti politiknya saja. Karena saya ingin perubahan, perubahan yang tentu saja saya harap menjadi lebih baik, bagi negara saya. Figur Pak Jokowi saya anggap akan menjadi figur yang membawa perubahan. Contohnya saya sudah apatis terhadap birokrasi di Indonesia. Sistemnya kacau, berbelit dan memudahkan terjadinya pungutan liar, saya selalu berpikir dari dulu bahwa hal ini tidak bisa diperbaiki, tapi apa yang kemudian terjadi di Solo dan Jakarta mengubah pikiran saya. Ada orang-orang PNS yang mau untuk melayani sungguh-sungguh dan bisa memberikan pelayanan birokrasi yang memuaskan. Dari Solo berhasil dibawa ke Jakarta, dan saya kemudian sangat menantikan untuk bisa berlanjut ke seluruh Indonesia. Pak Jokowi juga merupakan teladan bagi sikap hidup sederhana, penting sekali untuk memiliki pemimpin seperti ini, sudah kaya, pengusaha, tapi sederhana. Kejujuran juga menjadi salah satu faktor penting bagi saya, belum pernah sekalipun saya mendengar Pak Jokowi tersangkut kasus korupsi. Bahkan dengan berani memiliki audit eksternal dan pengawasan langsung dari KPK.&lt;/p&gt;
+
+&lt;p&gt;Memang bukan berarti Pak Jokowi sempurna, bagaimanapun beliau manusia yang pasti ada salahnya, atau paling tidak sudah pasti kita sebagai manusia bisa menyenangkan atau memuaskan semua orang, pasti ada saja yang kurang. Dan saya pun juga mengakui beberapa kekurangan Pak Jokowi menurut saya, kurang arif dan memiliki kontrol diri, mungkin dikarenakan usianya paling muda dan tekanan yang luar biasa besar yang diberikan pada beliau, pembawaan yang kurang berwibawa yang sepertinya akan membuat beliau terdesak bila sampai ada diskusi terbuka.&lt;/p&gt;
+
+&lt;p&gt;Sebagai warga negara yang normal, saya sangat mengharapkan ada pemilu yang bersih dan damai. Semoga segala keputusan nantinya bisa diterima semua pihak dan hanya yang terbaiklah bagi Indonesia yang akan terjadi.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Jun 2014 02:31:07 +0700</pubDate>
+        <link>http://johannesdwicahyo.id//2014/pemilu-pertama/</link>
+        <guid isPermaLink="true">http://johannesdwicahyo.id//2014/pemilu-pertama/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Sudah 1 tahun?</title>
+        <description>&lt;p&gt;Istimewa!! Waktu akhirnya saya ketikkan perintah untuk meng-generate post baru ini, ada selisih waktu 1 tahun dari post terakhir yang di publish. 1 tahun vakum menulis di blog ini, yang seharusnya jadi semacam catatan harian, programming log dan media share pikiran. Pertanyaannya, sesibuk apa saya sehingga sampai tidak bisa menyentuh blog ini untuk menulis artikel-artikel baru?
+&lt;!--more--&gt;
+1 Tahun ini saya banyak bertualang. Bukan travelling seperti sebelum-sebelumnya,tapi bertualang mempelajari hal baru yang bernama “Membuka Usaha Sendiri”. FYI saya anak cukup mandiri secara keuangan selama kuliah, banyak kerja parttime dan punya beberapa sumber penghasilan. Setelah lulus kemudian saya bekerja di kantor yang sangat-sangat baik. Sampai pada suatu saat setelah mencoba menyambi beberapa usaha, saya mencoba untuk membuat rencana bisnis yang lebih besar, dengan modal uang, tenaga dan pikiran yang jauh lebih besar dari yang sebelum-sebelumnya saya lakukan.&lt;/p&gt;
+
+&lt;p&gt;Dan memang akhirnya saya resign, kembali ke dunia lama dengan kesibukan baru. Saya pulang ke Jogja, bila dulu sebagai tempat kuliah, sekarang sebagai tempat saya membuka usaha. Bersama beberapa teman yang juga tertarik dengan konsep ini, saya membuka usaha Combimoo - Milktea &amp;amp; Sandwich in a Combi. Usaha yang unyu-unyu ini menjual milktea dan sandwich dengan media mobil VW Combi.&lt;/p&gt;
+
+&lt;p&gt;Sibuk? lumayan, banyak hal yang harus disiapkan. Apalagi saya dan teman-teman belum berpengalaman sama sekali. Dan skalanya dengan cepat kami naikkan, kami memiliki Cafe sederhana juga untuk menyajikan Milktea disertai dengan beberapa menu makanan berat ataupun snack selayaknya cafe. Dan kemudian dilakukan pelebaran lagi baru-baru ini dengan perubahan konsep cafe menjadi Coffee Shop dan Combimoo yang mulai menyebar franchise. Belajar banyak hal baru, tentang praktikal bisnis, hubungan dengan sesama dan tentu saja yang dipandang umum di semua bisnis, orang yang berusaha melakukan tindakan kurang terpuji demi keuntungan pribadi.&lt;/p&gt;
+
+&lt;p&gt;Apakah kemudian saya jadi tidak melakukan hobi coding? Untungnya tidak, demi menyambung hidup saya juga menjadi freelance programmer dengan spesialisasi lama saya yaitu Rails &amp;amp; Android, membuat beberapa aplikasi PoS, touch PoS dengan Android, Toko Online dan sebagainya.&lt;/p&gt;
+
+&lt;p&gt;1 Tahun ini memang rasanya cepat sekali berlalu, lajunya cepat, hari-hari lewat dengan cepat dan bulan demi bulan juga berlalu. Agak bingung dengan ketidaksempatan blogging ini, mungkin karena banyak waktu pribadi yang dulunya bisa saya nikmati sekarang jadi waktu sosial bersama karyawan, konsumen dan lain-lain. Karena sudah tersadar, saya mau belajar lagi untuk blogging kembali, rutin kembali berbagi, mencatat programming log dan menuangkan pikiran dalam kata-kata.&lt;/p&gt;
+
+&lt;p&gt;Tuhan memberkati.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 Jun 2014 22:05:21 +0700</pubDate>
+        <link>http://johannesdwicahyo.id//2014/sudah-1-tahun/</link>
+        <guid isPermaLink="true">http://johannesdwicahyo.id//2014/sudah-1-tahun/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Synapse atau GNOME-Do ?</title>
+        <description>&lt;p&gt;Salah satu akibat lagi dari berpindahnya OS saya ke Backtrack adalah tidak adanya lagi Unity Dash dan Lens yang selama ini sangat nyaman saya gunakan untuk navigasi antar aplikasi ataupun membuka file. Pilihannya adalah menambahkan aplikasi app launcher untuk melayani kebutuhan ini. Ada dua pilihan populer Gnome-Do atau Synapse?
+&lt;!--more--&gt;
+Gnome Do merupakan pilihan paling populer dan masih menjadi aplikasi favorit dari Lifehacker. Instalasi bisa dilakukan melalui software center secara langsung. Aplikasinya simpel, sudah mature juga, banyak plugin yang mendukungnya, bentuknya khas desktop Gnome. Saya cukup suka dan preferences-nya mudah juga untuk start saat login.
+&lt;img src=&quot;http://3.bp.blogspot.com/_crimgO_xQv0/SGvPrCMVKVI/AAAAAAAABDM/577Jme5ub20/s400/Gnome-Do.png&quot; /&gt;
+Synapse juga merupakan aplikasi yang difavoritkan untuk menjadi app launcher. Interfacenya simpel juga dan memiliki kelebihan utama dengan kemampuannya mengakses Zeitgeist sehingga memudahkan untuk mencari file juga dari recent file dan history apa saja yang sebelumnya sudah kita lakukan dan tercatat di Zeitgeist.
+&lt;img src=&quot;http://img.gawkerassets.com/img/18ixpvoen8ybnpng/ku-medium.png&quot; /&gt;
+Secara tampilan sebenarnya mereka setingkat, bahkan ada theme di Synapse yang akan membuatnya sangat mirip dengan tampilan default Gnome-Do. Saya akhirnya memutuskan memakai Synapse hanya karena kelebihannya dengan integrasi Zeitgeist dan tampilannya standarnya yang lebih simpel.&lt;/p&gt;
+
+&lt;p&gt;Saya tentu saja memilih opsi start at login dan juga menambahkan shortcut untuk mengaksesnya dengan tombol Mod4 + R (windows key + R) kalau di laptop saya.&lt;/p&gt;
+
+&lt;p&gt;Referensi :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lifehacker.com/5873738/the-best-application-launcher-for-linux&quot;&gt;http://lifehacker.com/5873738/the-best-application-launcher-for-linux&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://launchpad.net/synapse-project&quot;&gt;https://launchpad.net/synapse-project&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lifehacker.com/5704221/synapse-is-a-super+fast-tightly-integrated-application-launcher-for-linux&quot;&gt;http://lifehacker.com/5704221/synapse-is-a-super+fast-tightly-integrated-application-launcher-for-linux&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://cooperteam.net/&quot;&gt;http://cooperteam.net/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 31 May 2013 10:50:00 +0700</pubDate>
+        <link>http://johannesdwicahyo.id//2013/synapse-atau-gnome-do/</link>
+        <guid isPermaLink="true">http://johannesdwicahyo.id//2013/synapse-atau-gnome-do/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Terpaksa Pindah ke Backtrack</title>
+        <description>&lt;p&gt;Kali ini saya akhirnya terpaksa pindah ke Backtrak dari Ubuntu. Sebabnya karena ada error di Ubuntu yang belum bisa saya perbaiki padahal saya butuh laptop untuk development segera dan yang tersisa di flashdisk multiboot saya tinggal OS bactrack 5 R3. Saya cari-cari ISO ubuntu tidak juga ketemu. Karena itu kemudian saya putuskan saja untuk mengganti OS saya ke Backtrack, toh saya sebelumnya juga baru saja mensetting Metasploit di Ubuntu dan membutuhkannya.
+&lt;!-- more --&gt;
+Instalasi berjalan normal seperti kebanyakan saat instalasi Ubuntu. Saat startup Backtrack secara default akan memasukkan kita ke tampilan command line dan untuk masuk ke GUI kita cukup mengetikkan startx. Beberapa hal yang saya lakukan setelah instalasi adalah menambah user bukan root untuk akses sehari-hari, mengubah startup agar langsung ke GUI, menambahkan lockscreen, menambahkan application runner, mensetting network untuk dapat melakukan koneksi dengan modem ataupun tethering smartphone, setting fstab untuk mounting partisi harddrive, menambahkan beberapa ppa yang biasa saya gunakan, menginstall conky dan menghias desktop dan tentunya menyiapkan environment untuk pemrograman Ruby on Rails dan Android. Intinya adalah membuat OS hacker ini lebih nyaman untuk digunakan sehari-hari.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 30 May 2013 14:00:00 +0700</pubDate>
+        <link>http://johannesdwicahyo.id//2013/terpaksa-pindah-ke-backtrack/</link>
+        <guid isPermaLink="true">http://johannesdwicahyo.id//2013/terpaksa-pindah-ke-backtrack/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Belajar VIm dengan VIm Tutor</title>
+        <description>&lt;p&gt;Pengguna Unix apalagi para power user pasti mengenal Vi atau Vim. Merupakan text editor yang sangat powerfull dengan cara penggunaan yang tidak bisa dibilang mudah untuk dipelajari tetapi juga dianggap sangat memudahkan pengeditan text saat sudah menguasainya. Learning curve-nya memang tidak cepat, karena itulah meskipun banyak sudah tau vi dan vim, tidak semua orang juga bisa menggunakannya. Termasuk saya.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Saya selalu kagum, sejak lama bila melihat orang saat menggunakan Vim, tampak keren, cepat dan mantap. Dan sudah lama juga saya ingin bisa menggunakannya karena biasanya menggunakan Nano yang lebih mudah. Sudah banyak sekali saya download materi untuk belajar Vim, termasuk cheat sheetnya juga, tapi sampai sekarang sejak jadi pengguna Linux di 2006 saya belum juga sempat mempelajarinya.&lt;/p&gt;
+
+&lt;p&gt;Dan beberapa waktu lalu, saya mendengar adanya VimTutor yang merupakan tutor interaktif untuk belajar vim langsung di terminal juga. Terlihat menarik dan ada waktu luang dan kemudian saya segera mencobanya, akhirnya saya mulai belajar Vim juga.&lt;/p&gt;
+
+&lt;p&gt;Untuk instalasinya, normalnya akan langsung ikut di program VIM yang secara default akan ada di distribusi Linux anda, terutama di Ubuntu yang saya gunakan (13.04). Tapi ternyata untuk saya di Ubuntu 13.04 ini berbeda dengan Ubuntu 12.04 yang sebelumnya saya gunakan, di 12.04 akan langsung bisa diakses dengan command ‘vimtutor’ melalui terminal, tapi dengan Ubuntu 13.04 ternyata tidak langsung default ada dan perlu melakukan tambahan instalasi vim-gnome.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;	sudo apt-get install vim-gnome&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Setelah instalasi ini kita bisa langsung mengakses vimtutor. Simpel dan tinggal mengikuti perintah, paling tidak untuk waktu sekitar 1jam kedepan anda akan lebih menguasai Vim, tentunya untuk bisa menjadi ahli perlu latihan penggunaan terus menerus.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 May 2013 10:15:00 +0700</pubDate>
+        <link>http://johannesdwicahyo.id//2013/belajar-vim-dengan-vim-tutor/</link>
+        <guid isPermaLink="true">http://johannesdwicahyo.id//2013/belajar-vim-dengan-vim-tutor/</guid>
+        
+        
+        <category>vim,</category>
+        
+        <category>vimtutor,</category>
+        
+        <category>ubuntu,</category>
+        
+        <category>editor</category>
+        
+      </item>
+    
+      <item>
+        <title>Kali Linux = Backtrack 6</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://www.kali.org&quot;&gt;Kali Linux&lt;/a&gt; merupakan versi baru dari Backtrack. Kaget juga dengan penggantian ini, karena nama Backtrack selama ini sudah begitu melegenda sebagai OS andalan untuk melakukan penetration testing. Bisa dibilang merupakan OS standar para hacker.
+&lt;!--more--&gt;
+Bisa dibilang sebenarnya Kali cuma merupakan versi baru Backtrack, yang seharusnya bernama Backtrack 6. Karena itu wajar bila memang ada banyak perbaikan dan perubahan selayaknya versi baru sebuah OS. Fitur Kali Linux juga bisa dibilang tidak berbeda, masih dengan tujuan yang sama juga.&lt;/p&gt;
+
+&lt;p&gt;Fitur :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;lebih dari 300 tool untuk pen test&lt;/li&gt;
+  &lt;li&gt;Masih didanai dan dikembangkan oleh Offensive Security&lt;/li&gt;
+  &lt;li&gt;Support untuk ARMEL and ARMHF termasuk device yang berbasis ARM: rk3306 mk/ss808, Raspberry Pi, ODROID U2/X2, Galaxy Note 10.1 dan Samsung Chromebook&lt;/li&gt;
+  &lt;li&gt;Kustomisasi lebih leluasa, bisa menggunakan desktop manager apapun kesukaan kita dengan mudah&lt;/li&gt;
+  &lt;li&gt;Support multi bahasa&lt;/li&gt;
+  &lt;li&gt;Dan yang pasti masih gratis&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Referensi :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.techrepublic.com/blog/opensource/better-than-backtrack-kali-linux-offers-new-brand-of-pen-testing-tools/4265&quot;&gt;http://www.techrepublic.com/blog/opensource/better-than-backtrack-kali-linux-offers-new-brand-of-pen-testing-tools/4265&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://crackedtech.blogspot.com/2013/04/what-is-difference-between-backtrack.html&quot;&gt;http://crackedtech.blogspot.com/2013/04/what-is-difference-between-backtrack.html&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.backtrack-linux.org/backtrack/kali-linux-has-been-released/&quot;&gt;http://www.backtrack-linux.org/backtrack/kali-linux-has-been-released/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.networkworld.com/community/blog/kali-linux-next-backtrack&quot;&gt;http://www.networkworld.com/community/blog/kali-linux-next-backtrack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://thehackernews.com/2013/03/download-kali-linux-from-creators-of.html&quot;&gt;http://thehackernews.com/2013/03/download-kali-linux-from-creators-of.html&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://linux.slashdot.org/story/13/03/13/1358207/kali-linux-successor-of-the-backtrack-penetration-testing-distro-launched&quot;&gt;http://linux.slashdot.org/story/13/03/13/1358207/kali-linux-successor-of-the-backtrack-penetration-testing-distro-launched&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Wed, 01 May 2013 15:26:00 +0700</pubDate>
+        <link>http://johannesdwicahyo.id//2013/kali-linux-equals-backtrack-6/</link>
+        <guid isPermaLink="true">http://johannesdwicahyo.id//2013/kali-linux-equals-backtrack-6/</guid>
+        
+        
+        <category>backtrack,</category>
+        
+        <category>penetration</category>
+        
+        <category>testing,</category>
+        
+        <category>hacking,</category>
+        
+        <category>security,</category>
+        
+        <category>opensource,</category>
+        
+        <category>kali</category>
+        
+      </item>
+    
   </channel>
 </rss>
