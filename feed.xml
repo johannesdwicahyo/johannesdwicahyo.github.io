@@ -2,28 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Johannes Dwi Cahyo</title>
-    <description>Rails, Ionic Dev &amp; Culinary Entrepeneur</description>
+    <description>Life is short, stay awake for it</description>
     <link>http://johannesdwicahyo.id//</link>
     <atom:link href="http://johannesdwicahyo.id//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 17 Aug 2016 10:56:44 +0700</pubDate>
-    <lastBuildDate>Wed, 17 Aug 2016 10:56:44 +0700</lastBuildDate>
+    <pubDate>Wed, 17 Aug 2016 13:11:14 +0700</pubDate>
+    <lastBuildDate>Wed, 17 Aug 2016 13:11:14 +0700</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>
+        <title>Johannes Portfolio</title>
+        <description>&lt;p&gt;My project portfolio :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;PT Nutrifood Indonesia - I work at this company for almost 3 years and developing business/ERP companion application, mostly based on Ruby on Rails, and also developing mobile application in J2ME and Android.&lt;/li&gt;
+  &lt;li&gt;Combimoo - it is a small company that I and some of my friend built, I develop simple ERP application and Point of Sale for cashier, all based on Ruby on Rails and Android.&lt;/li&gt;
+  &lt;li&gt;NZXT.com - a company based in USA, selling gaming hardware. I build e-commerce app based on Shopify API using Ruby on Rails, it is like management dashboard for maintaining Shopify Store and also for their blog in Wordpress.&lt;/li&gt;
+  &lt;li&gt;Koperasi Kasih Indonesia - I develop some little code to generate report for their backend administration.&lt;/li&gt;
+  &lt;li&gt;Hotelo - is a simple minimalistic hotel management application I build for hotel in Kalimantan, it is using Laravel for Development and then I change it to Rails after the project&lt;/li&gt;
+  &lt;li&gt;MyGuard - is an upcoming StartUp, they provide Bodyguard on demand business, I develop backend application using Ruby on Rails and Android + iOS application using Ionic Framework.&lt;/li&gt;
+  &lt;li&gt;KoinWorks - is a FinTech startup, I develop their mobile application using Ionic Framework.&lt;/li&gt;
+  &lt;li&gt;Luxelet &amp;amp; Villalet - it is a luxury property booking and management application, I develop web application using Ruby on Rails&lt;/li&gt;
+  &lt;li&gt;ZooProperty - it is property management and listing application, it is based on Ruby on Rails for backend and mangement console, and using Wordpress for frontend&lt;/li&gt;
+  &lt;li&gt;PanenID - this project won in Solusi Desa Broadband Terpadu competition from Kominfo and will be implemented accross Indonesia.&lt;/li&gt;
+  &lt;li&gt;TravelKit - travel planner redefined, web and mobile application to plan a travel, provide integrated booking service and information for all travelling needs.&lt;/li&gt;
+  &lt;li&gt;Simbok - Web and Mobile application to manage a laundry system, we hope we can make a laundry process greener and environment aware.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 08 Jan 2016 23:04:23 +0700</pubDate>
+        <link>http://johannesdwicahyo.id//2016/johannes-portfolio/</link>
+        <guid isPermaLink="true">http://johannesdwicahyo.id//2016/johannes-portfolio/</guid>
+        
+        <category>portfolio</category>
+        
+        
+        <category>portfolio</category>
+        
+      </item>
+    
+      <item>
         <title>Hi!</title>
-        <description>&lt;p&gt;My name Johannes Dwi Cahyo Kristanto. I’m an application developer. My stack is Ruby on Rails or Meteor for back end and API server, Angular and React for JavaScript front end, Slim for template language in Rails, Spree/Solidus for e-commerce and Ionic Framework for hybrid application development. My next to be stack is Elixir - Phoenix and React Native. I enjoy using SublimeText, Atom or even Vim to edit my code. My OS for desktop is Ubuntu (or Elementary OS) and also Ubuntu Server for deployment in AWS or Digital Ocean (also Heroku for fast development).&lt;/p&gt;
+        <description>&lt;p&gt;My name Johannes Dwi Cahyo Kristanto. I’m an application developer. My stack is Ruby on Rails, Go or Meteor for back end and API server, Angular and React for JavaScript front end, Slim for template language in Rails, Spree/Solidus for e-commerce and Ionic Framework for hybrid application development. My next to be stack is Elixir - Phoenix and React Native. I enjoy using SublimeText, Atom or even Vim to edit my code. My OS for desktop is Ubuntu (or Elementary OS) and also Ubuntu Server for deployment in AWS or Digital Ocean (also Heroku for fast development).&lt;/p&gt;
+
+&lt;p&gt;Of course I’m available for hire. You can see at my portfolio to know what kind of projects I’m interested for.&lt;/p&gt;
 
 &lt;p&gt;I also run my own small business :&lt;/p&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;PanenID is a winner of Solusi Desa Broadband Terpadu competition from Kominfo (Indonesia Ministry of Communication &amp;amp; Informatics), it is a direct trading platform for farmer and give an API for open data about crop/plant distribution in Indonesia&lt;/li&gt;
   &lt;li&gt;John316 is an alternative coffee brewing store&lt;/li&gt;
-  &lt;li&gt;Greendry is an enviromental aware laundry provider&lt;/li&gt;
+  &lt;li&gt;Simbok is an enviromental aware laundry on-demand provider&lt;/li&gt;
   &lt;li&gt;AbangSayur is local e-commerce market for organic &amp;amp; healthy food&lt;/li&gt;
-  &lt;li&gt;Go-Trip is an upcoming startup in travelling, provide itinerary maker integrated with travel industry provider&lt;/li&gt;
-  &lt;li&gt;Resto-Joe is restaurant management application build in Ruby on Rails and serve as Chrome Extension using Angular&lt;/li&gt;
-  &lt;li&gt;Hotel-Joe is hotel management application build in Ruby on Rails and serve as Chrome Extension using Angular&lt;/li&gt;
-  &lt;li&gt;Warehouse-Joe is warehouse management application build in Ruby on Rails and serve as Chrome Extension using Angular&lt;/li&gt;
-  &lt;li&gt;POS-Joe is multipurpose Point of Sales application build in Ruby on Rails and serve as Chrome Extension using Angular&lt;/li&gt;
+  &lt;li&gt;TravelKit is an upcoming startup in travelling, provide itinerary maker integrated with travel industry provider&lt;/li&gt;
+  &lt;li&gt;Hotelo is hotel management application build in Ruby on Rails and Angular&lt;/li&gt;
+  &lt;li&gt;POS-Joe is multipurpose Point of Sales application build in Ruby on Rails and Angular&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Besides my daily coding, I like to read a book and article, cooking and eating a good food and seeing comedy or thriller film. I also like dog, but until now my girlfriend not allow me to own a dog, but we agree to have a dog when we move together soon.&lt;/p&gt;
@@ -215,56 +246,6 @@ Instalasi berjalan normal seperti kebanyakan saat instalasi Ubuntu. Saat startup
         <category>ubuntu,</category>
         
         <category>editor</category>
-        
-      </item>
-    
-      <item>
-        <title>Kali Linux = Backtrack 6</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://www.kali.org&quot;&gt;Kali Linux&lt;/a&gt; merupakan versi baru dari Backtrack. Kaget juga dengan penggantian ini, karena nama Backtrack selama ini sudah begitu melegenda sebagai OS andalan untuk melakukan penetration testing. Bisa dibilang merupakan OS standar para hacker.
-&lt;!--more--&gt;
-Bisa dibilang sebenarnya Kali cuma merupakan versi baru Backtrack, yang seharusnya bernama Backtrack 6. Karena itu wajar bila memang ada banyak perbaikan dan perubahan selayaknya versi baru sebuah OS. Fitur Kali Linux juga bisa dibilang tidak berbeda, masih dengan tujuan yang sama juga.&lt;/p&gt;
-
-&lt;p&gt;Fitur :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;lebih dari 300 tool untuk pen test&lt;/li&gt;
-  &lt;li&gt;Masih didanai dan dikembangkan oleh Offensive Security&lt;/li&gt;
-  &lt;li&gt;Support untuk ARMEL and ARMHF termasuk device yang berbasis ARM: rk3306 mk/ss808, Raspberry Pi, ODROID U2/X2, Galaxy Note 10.1 dan Samsung Chromebook&lt;/li&gt;
-  &lt;li&gt;Kustomisasi lebih leluasa, bisa menggunakan desktop manager apapun kesukaan kita dengan mudah&lt;/li&gt;
-  &lt;li&gt;Support multi bahasa&lt;/li&gt;
-  &lt;li&gt;Dan yang pasti masih gratis&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Referensi :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.techrepublic.com/blog/opensource/better-than-backtrack-kali-linux-offers-new-brand-of-pen-testing-tools/4265&quot;&gt;http://www.techrepublic.com/blog/opensource/better-than-backtrack-kali-linux-offers-new-brand-of-pen-testing-tools/4265&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://crackedtech.blogspot.com/2013/04/what-is-difference-between-backtrack.html&quot;&gt;http://crackedtech.blogspot.com/2013/04/what-is-difference-between-backtrack.html&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.backtrack-linux.org/backtrack/kali-linux-has-been-released/&quot;&gt;http://www.backtrack-linux.org/backtrack/kali-linux-has-been-released/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.networkworld.com/community/blog/kali-linux-next-backtrack&quot;&gt;http://www.networkworld.com/community/blog/kali-linux-next-backtrack&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://thehackernews.com/2013/03/download-kali-linux-from-creators-of.html&quot;&gt;http://thehackernews.com/2013/03/download-kali-linux-from-creators-of.html&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://linux.slashdot.org/story/13/03/13/1358207/kali-linux-successor-of-the-backtrack-penetration-testing-distro-launched&quot;&gt;http://linux.slashdot.org/story/13/03/13/1358207/kali-linux-successor-of-the-backtrack-penetration-testing-distro-launched&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Wed, 01 May 2013 15:26:00 +0700</pubDate>
-        <link>http://johannesdwicahyo.id//2013/kali-linux-equals-backtrack-6/</link>
-        <guid isPermaLink="true">http://johannesdwicahyo.id//2013/kali-linux-equals-backtrack-6/</guid>
-        
-        
-        <category>backtrack,</category>
-        
-        <category>penetration</category>
-        
-        <category>testing,</category>
-        
-        <category>hacking,</category>
-        
-        <category>security,</category>
-        
-        <category>opensource,</category>
-        
-        <category>kali</category>
         
       </item>
     
