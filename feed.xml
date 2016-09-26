@@ -2,29 +2,90 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Johannes Dwi Cahyo</title>
-    <description>Life is short, stay awake for it</description>
+    <description>Freelance Ruby on Rails</description>
     <link>http://johannesdwicahyo.id//</link>
     <atom:link href="http://johannesdwicahyo.id//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 17 Aug 2016 13:11:14 +0700</pubDate>
-    <lastBuildDate>Wed, 17 Aug 2016 13:11:14 +0700</lastBuildDate>
+    <pubDate>Mon, 26 Sep 2016 21:31:19 +0700</pubDate>
+    <lastBuildDate>Mon, 26 Sep 2016 21:31:19 +0700</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
+    
+      <item>
+        <title>Ignition 2 1000  Startup Digital Indonesia</title>
+        <description>&lt;p&gt;Ini merupakan event kedua Ignition 1000 Startup Digital di Yogyakarta. Event Ignition adalah event untuk membangkitkan potensi-potensi startup digital di suatu daerah, untuk memberikan mindset yang tepat, dan pembentukan pola pikir awal entrepeneur digital.&lt;/p&gt;
+
+&lt;p&gt;Ini kebetulan merupakan event Ignition kedua yang saya ikuti, karena di event pertama saya sempat datang, tetapi hanya menjadi tamu undangan. Bila dibandingkan secara acara, Event kedua ini jauh lebih baik dari segi pelaksanaan dan pemilihan moderator untuk diskusi panel. Saya sangat menyukai model-model moderator dari event Ignition kedua ini, terutama pada sesi diskusi panel pertama yang berjalan dengan sangat baik dan jelas.&lt;/p&gt;
+
+&lt;p&gt;Membahas mengenai “Don’t Start a Bussines, Solve a Problem”, ketiga panelis yang dihadirkan sangat baik dan memberikan informasi yang mendalam dan aktual mengenai bagaimana mereka membangun startupnya masing-masing dengan berawal dari masalah, dan masalah ini yang kemudian cara pemecahannya menjadi visi dari berjalannya startup mereka masing-masing.&lt;/p&gt;
+
+&lt;p&gt;Panelis dari Gojek, Ms. Alamanda Shantika, yang merupakan VP dari Gojek, berbagi dengan sangat baik mengenai visi dari Gojek dari Nadiem Makarim yang diteruskan kepadanya, yang membuatnya memilih untuk bertahan di Gojek dan mengembangkannya sampai sebesar sekarang ini. Gojek memecahkan masalah angkutan perkotaan yang simpel juga membantu kehidupan 250.000 driver nya saat ini.&lt;/p&gt;
+
+&lt;p&gt;Panelis dari Reblood, Ms Leonika Sari, yang merupakan CEO dan founder, berbagi bagaimana beliau memulai Reblood. Beliau yang memang berasal dari latar belakang pendidikan IT, memang sudah menyukai pelajaran Biologi sejak masih di sekolah dan terbeban untuk dapat menjadi jalan menyediakan supply darah untuk donor darah yang stabil di Indonesia. Dan kemudian mulai memikirkan solusi tersebut melalui aplikasi mobile penjadwalan donor dan informasi event donor darah berdasarkan lokasi.&lt;/p&gt;
+
+&lt;p&gt;Panelis dari Kitabisa.com, yang merupakan CEO dan foundernya, Mr Alfatih Timur, menceritakan awal mula kitabisa.com yang dimulai dari keinginannya menyediakan platform fundraiser untuk kegiatan aktivis kampus, yang kemudian bergeser menjadi segala hal sosial dan belajar juga dari platform-platform fundraiser lain dari luar negeri yang sudah berjalan lebih dahulu. Kitabisa.com sudah banyak membantu menjadi media penggalangan dana untuk berbagai hal, seperti pembangunan masjid, beasiswa dan biaya pengobatan penyakit.&lt;/p&gt;
+
+&lt;p&gt;Dari sharing ketiga praktisi tersebut yang diarahkan dengan baik oleh moderator, saya bisa mengambil banyak pelajaran berharga mengenai bagaimana memulai startup dari pemecahan masalah sehari-hari dan yang ada di sekitar kita untuk dapat membantu banyak pihak dan berguna bagi seluruh masyarakat.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 18 Aug 2016 19:00:00 +0700</pubDate>
+        <link>http://johannesdwicahyo.id//2016/ignition-2-1000-startup-digital-indonesia/</link>
+        <guid isPermaLink="true">http://johannesdwicahyo.id//2016/ignition-2-1000-startup-digital-indonesia/</guid>
+        
+        <category>event</category>
+        
+        
+        <category>event</category>
+        
+      </item>
+    
+      <item>
+        <title>Ruby on Rails Freelance</title>
+        <description>&lt;p&gt;I’m a freelance Ruby (on Rails) and mobile app developer based in Yogyakarta, ID with nearly 5 years experience.&lt;/p&gt;
+
+&lt;p&gt;I’ve worked on a diverse range of projects, small and large. My clients include Nutrifood, Koinworks, ZooProperty and Luxelet.&lt;/p&gt;
+
+&lt;p&gt;I care about writing high quality, well tested software and delivering value to each of my clients. I love agile development and a believe in open-source software. You can find a some of my open-source projects on &lt;a href=&quot;&amp;quot;https://www.github.com/johannesdwicahyo&amp;quot;&quot;&gt;Github&lt;/a&gt; or check out &lt;a href=&quot;&amp;quot;http://www.johannesdwicahyo.id&amp;quot;&quot;&gt;my blog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;When you hire me to work on your project, you’re not just hiring a developer - you’re hiring somebody to guide you throughout your project from inception to completion.
+I can help you break down your idea into functional requirements and help you prioritise those requirements in order to get from idea to a working prototype as quickly as possible and within your budget.&lt;/p&gt;
+
+&lt;p&gt;I often have clients approach me needing help to complete their existing project when things haven’t been going to plan. I can review your existing codebase and advise you what steps are required to get your project going again before helping to get you back on track.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;You can contact me at johannesdwicahyo@gmail.com&lt;/td&gt;
+      &lt;td&gt;+6281914914286 .&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Thu, 18 Aug 2016 19:00:00 +0700</pubDate>
+        <link>http://johannesdwicahyo.id//2016/ruby-on-rails-freelance/</link>
+        <guid isPermaLink="true">http://johannesdwicahyo.id//2016/ruby-on-rails-freelance/</guid>
+        
+        <category>portfolio</category>
+        
+        
+        <category>portfolio</category>
+        
+      </item>
     
       <item>
         <title>Johannes Portfolio</title>
         <description>&lt;p&gt;My project portfolio :&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;PT Nutrifood Indonesia - I work at this company for almost 3 years and developing business/ERP companion application, mostly based on Ruby on Rails, and also developing mobile application in J2ME and Android.&lt;/li&gt;
-  &lt;li&gt;Combimoo - it is a small company that I and some of my friend built, I develop simple ERP application and Point of Sale for cashier, all based on Ruby on Rails and Android.&lt;/li&gt;
-  &lt;li&gt;NZXT.com - a company based in USA, selling gaming hardware. I build e-commerce app based on Shopify API using Ruby on Rails, it is like management dashboard for maintaining Shopify Store and also for their blog in Wordpress.&lt;/li&gt;
-  &lt;li&gt;Koperasi Kasih Indonesia - I develop some little code to generate report for their backend administration.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&amp;quot;http://www.nutrifood.co.id&amp;quot;&quot;&gt;PT Nutrifood Indonesia&lt;/a&gt; - I work at this company for almost 3 years and developing business/ERP companion application, mostly based on Ruby on Rails, and also developing mobile application in J2ME and Android.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&amp;quot;http://www.combimoo.com&amp;quot;&quot;&gt;Combimoo&lt;/a&gt; - it is a small company that I and some of my friend built, I develop simple ERP application and Point of Sale for cashier, all based on Ruby on Rails and Android.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&amp;quot;http://www.nzxt.com&amp;quot;&quot;&gt;NZXT.com&lt;/a&gt; - a company based in USA, selling gaming hardware. I build e-commerce app based on Shopify API using Ruby on Rails, it is like management dashboard for maintaining Shopify Store and also for their blog in Wordpress.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&amp;quot;http://www.kasiindonesia.co.id&amp;quot;&quot;&gt;Koperasi Kasih Indonesia&lt;/a&gt; - I develop some little code to generate report for their backend administration.&lt;/li&gt;
   &lt;li&gt;Hotelo - is a simple minimalistic hotel management application I build for hotel in Kalimantan, it is using Laravel for Development and then I change it to Rails after the project&lt;/li&gt;
   &lt;li&gt;MyGuard - is an upcoming StartUp, they provide Bodyguard on demand business, I develop backend application using Ruby on Rails and Android + iOS application using Ionic Framework.&lt;/li&gt;
-  &lt;li&gt;KoinWorks - is a FinTech startup, I develop their mobile application using Ionic Framework.&lt;/li&gt;
-  &lt;li&gt;Luxelet &amp;amp; Villalet - it is a luxury property booking and management application, I develop web application using Ruby on Rails&lt;/li&gt;
-  &lt;li&gt;ZooProperty - it is property management and listing application, it is based on Ruby on Rails for backend and mangement console, and using Wordpress for frontend&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&amp;quot;https://www.koinworks.com&amp;quot;&quot;&gt;KoinWorks&lt;/a&gt; - is a FinTech startup, I develop their mobile application using Ionic Framework.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&amp;quot;http://www.luxelet.com&amp;quot;&quot;&gt;Luxelet&lt;/a&gt; &amp;amp; &lt;a href=&quot;&amp;quot;http://www.villalet.com&amp;quot;&quot;&gt;Villalet&lt;/a&gt; - it is a luxury property booking and management application, I develop web application using Ruby on Rails&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&amp;quot;http://agentpoint.com&amp;quot;&quot;&gt;ZooProperty&lt;/a&gt; - it is property management and listing application, it is based on Ruby on Rails for backend and mangement console, and using Wordpress for frontend&lt;/li&gt;
   &lt;li&gt;PanenID - this project won in Solusi Desa Broadband Terpadu competition from Kominfo and will be implemented accross Indonesia.&lt;/li&gt;
-  &lt;li&gt;TravelKit - travel planner redefined, web and mobile application to plan a travel, provide integrated booking service and information for all travelling needs.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&amp;quot;https://www.travelkit.id&amp;quot;&quot;&gt;TravelKit&lt;/a&gt; - travel planner redefined, web and mobile application to plan a travel, provide integrated booking service and information for all travelling needs.&lt;/li&gt;
   &lt;li&gt;Simbok - Web and Mobile application to manage a laundry system, we hope we can make a laundry process greener and environment aware.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -43,16 +104,16 @@
         <title>Hi!</title>
         <description>&lt;p&gt;My name Johannes Dwi Cahyo Kristanto. I’m an application developer. My stack is Ruby on Rails, Go or Meteor for back end and API server, Angular and React for JavaScript front end, Slim for template language in Rails, Spree/Solidus for e-commerce and Ionic Framework for hybrid application development. My next to be stack is Elixir - Phoenix and React Native. I enjoy using SublimeText, Atom or even Vim to edit my code. My OS for desktop is Ubuntu (or Elementary OS) and also Ubuntu Server for deployment in AWS or Digital Ocean (also Heroku for fast development).&lt;/p&gt;
 
-&lt;p&gt;Of course I’m available for hire. You can see at my portfolio to know what kind of projects I’m interested for.&lt;/p&gt;
+&lt;p&gt;Of course I’m available for hire. You can see at &lt;a href=&quot;/2016/johannes-portfolio/&quot;&gt;my portfolio&lt;/a&gt; to know what kind of projects I’m interested for.&lt;/p&gt;
 
 &lt;p&gt;I also run my own small business :&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;PanenID is a winner of Solusi Desa Broadband Terpadu competition from Kominfo (Indonesia Ministry of Communication &amp;amp; Informatics), it is a direct trading platform for farmer and give an API for open data about crop/plant distribution in Indonesia&lt;/li&gt;
+  &lt;li&gt;PanenID is a winner of &lt;a href=&quot;&amp;quot;http://www.solusi.broadband-desa.go.id/&amp;quot;&quot;&gt;Solusi Desa Broadband Terpadu&lt;/a&gt; competition from Kominfo (Indonesia Ministry of Communication &amp;amp; Informatics), it is a direct trading platform for farmer and give an API for open data about crop/plant distribution in Indonesia&lt;/li&gt;
   &lt;li&gt;John316 is an alternative coffee brewing store&lt;/li&gt;
   &lt;li&gt;Simbok is an enviromental aware laundry on-demand provider&lt;/li&gt;
-  &lt;li&gt;AbangSayur is local e-commerce market for organic &amp;amp; healthy food&lt;/li&gt;
-  &lt;li&gt;TravelKit is an upcoming startup in travelling, provide itinerary maker integrated with travel industry provider&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&amp;quot;https://www.abangsayur.com&amp;quot;&quot;&gt;AbangSayur&lt;/a&gt; is local e-commerce market for organic &amp;amp; healthy food&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&amp;quot;https://www.travelkit.id&amp;quot;&quot;&gt;TravelKit&lt;/a&gt; is an upcoming startup in travelling, provide itinerary maker integrated with travel industry provider&lt;/li&gt;
   &lt;li&gt;Hotelo is hotel management application build in Ruby on Rails and Angular&lt;/li&gt;
   &lt;li&gt;POS-Joe is multipurpose Point of Sales application build in Ruby on Rails and Angular&lt;/li&gt;
 &lt;/ul&gt;
@@ -201,51 +262,6 @@ Secara tampilan sebenarnya mereka setingkat, bahkan ada theme di Synapse yang ak
         <link>http://johannesdwicahyo.id//2013/synapse-atau-gnome-do/</link>
         <guid isPermaLink="true">http://johannesdwicahyo.id//2013/synapse-atau-gnome-do/</guid>
         
-        
-      </item>
-    
-      <item>
-        <title>Terpaksa Pindah ke Backtrack</title>
-        <description>&lt;p&gt;Kali ini saya akhirnya terpaksa pindah ke Backtrak dari Ubuntu. Sebabnya karena ada error di Ubuntu yang belum bisa saya perbaiki padahal saya butuh laptop untuk development segera dan yang tersisa di flashdisk multiboot saya tinggal OS bactrack 5 R3. Saya cari-cari ISO ubuntu tidak juga ketemu. Karena itu kemudian saya putuskan saja untuk mengganti OS saya ke Backtrack, toh saya sebelumnya juga baru saja mensetting Metasploit di Ubuntu dan membutuhkannya.
-&lt;!-- more --&gt;
-Instalasi berjalan normal seperti kebanyakan saat instalasi Ubuntu. Saat startup Backtrack secara default akan memasukkan kita ke tampilan command line dan untuk masuk ke GUI kita cukup mengetikkan startx. Beberapa hal yang saya lakukan setelah instalasi adalah menambah user bukan root untuk akses sehari-hari, mengubah startup agar langsung ke GUI, menambahkan lockscreen, menambahkan application runner, mensetting network untuk dapat melakukan koneksi dengan modem ataupun tethering smartphone, setting fstab untuk mounting partisi harddrive, menambahkan beberapa ppa yang biasa saya gunakan, menginstall conky dan menghias desktop dan tentunya menyiapkan environment untuk pemrograman Ruby on Rails dan Android. Intinya adalah membuat OS hacker ini lebih nyaman untuk digunakan sehari-hari.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 30 May 2013 14:00:00 +0700</pubDate>
-        <link>http://johannesdwicahyo.id//2013/terpaksa-pindah-ke-backtrack/</link>
-        <guid isPermaLink="true">http://johannesdwicahyo.id//2013/terpaksa-pindah-ke-backtrack/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Belajar VIm dengan VIm Tutor</title>
-        <description>&lt;p&gt;Pengguna Unix apalagi para power user pasti mengenal Vi atau Vim. Merupakan text editor yang sangat powerfull dengan cara penggunaan yang tidak bisa dibilang mudah untuk dipelajari tetapi juga dianggap sangat memudahkan pengeditan text saat sudah menguasainya. Learning curve-nya memang tidak cepat, karena itulah meskipun banyak sudah tau vi dan vim, tidak semua orang juga bisa menggunakannya. Termasuk saya.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Saya selalu kagum, sejak lama bila melihat orang saat menggunakan Vim, tampak keren, cepat dan mantap. Dan sudah lama juga saya ingin bisa menggunakannya karena biasanya menggunakan Nano yang lebih mudah. Sudah banyak sekali saya download materi untuk belajar Vim, termasuk cheat sheetnya juga, tapi sampai sekarang sejak jadi pengguna Linux di 2006 saya belum juga sempat mempelajarinya.&lt;/p&gt;
-
-&lt;p&gt;Dan beberapa waktu lalu, saya mendengar adanya VimTutor yang merupakan tutor interaktif untuk belajar vim langsung di terminal juga. Terlihat menarik dan ada waktu luang dan kemudian saya segera mencobanya, akhirnya saya mulai belajar Vim juga.&lt;/p&gt;
-
-&lt;p&gt;Untuk instalasinya, normalnya akan langsung ikut di program VIM yang secara default akan ada di distribusi Linux anda, terutama di Ubuntu yang saya gunakan (13.04). Tapi ternyata untuk saya di Ubuntu 13.04 ini berbeda dengan Ubuntu 12.04 yang sebelumnya saya gunakan, di 12.04 akan langsung bisa diakses dengan command ‘vimtutor’ melalui terminal, tapi dengan Ubuntu 13.04 ternyata tidak langsung default ada dan perlu melakukan tambahan instalasi vim-gnome.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;	sudo apt-get install vim-gnome&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Setelah instalasi ini kita bisa langsung mengakses vimtutor. Simpel dan tinggal mengikuti perintah, paling tidak untuk waktu sekitar 1jam kedepan anda akan lebih menguasai Vim, tentunya untuk bisa menjadi ahli perlu latihan penggunaan terus menerus.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 15 May 2013 10:15:00 +0700</pubDate>
-        <link>http://johannesdwicahyo.id//2013/belajar-vim-dengan-vim-tutor/</link>
-        <guid isPermaLink="true">http://johannesdwicahyo.id//2013/belajar-vim-dengan-vim-tutor/</guid>
-        
-        
-        <category>vim,</category>
-        
-        <category>vimtutor,</category>
-        
-        <category>ubuntu,</category>
-        
-        <category>editor</category>
         
       </item>
     
